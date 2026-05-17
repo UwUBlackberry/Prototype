@@ -17,3 +17,4 @@ IDEAS
  - SBC Gloken type atmosphere?
  - Dragon's Dogma/Shadow of the colossus like monster climbing system
  - Nemesis inspired system
+ - Skyrim like but better skill system, yk? Like... starting at zero in everything or certain numbers depending on race or class or whatever and then having to build up from there, making things like crafting easier for high level gear at higher levels
